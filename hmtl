@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<meta name= "viewport" content="width=device-width=,initial-scale=1.0">
+<title>The Perfect PB&J </title>
+
+<link rel="stylesheet" type="text/css" href="pbj.css">
+
+
+</head>
+
+
+<body>
+<div id="main-container">
+<h1><STRONG>The Perfect PB&J</STRONG></h1>
+
+<img src="http://www.seriouseats.com/images/20070401istockpbjbeauty.jpg" alt="PB&J" >
+
+<h3> Description </h3>
+<p>This peanutbutter and jelly sandwich is my favorite. It has the perfect balance of ingredients and looks great when made right. </p>
+
+<h3> Ingredients</h3>
+
+<p><ul>
+<li>2 slices of white bread</li>
+<li>1 jar of grape jelly</li>
+<li>1 jar of creamy peanutbutter</li>
+<li>A butter knife</li>
+<li>A sharp knife</li>
+<li>A cutting board</li>
+</ul> 
+</p>
+
+<h3>Directions</h3>
+<p><ol>
+<li>Lay both slices of bread next to each other on a cutting board.</li>
+<li>With the butter knife, spread a 1/8 inch layer of peanutbutter on the left side.</li>
+<li>on the right side, spread a 1/8 inch layer of jelly.</li>
+<li>Carefully place the two halves together so that the jelly is on top.</li>
+<li>With the sharp knife, carefully cut the sandwich in half.</li>
+<li>Enjoy the PB&J!</li>
+
+</ol>
+</p>
+
+</div>
+</body>
+</html>
