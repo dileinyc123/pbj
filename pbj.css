@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Bellefair');
+
+div {
+    color: Blue;
+    font-family: Bellefair, arial;
+}
+
+img {
+    height: 500px;
+    width: 600px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+@media (max-width:480px) and (max-width: 1024 px) {
+
+	img {
+		height:500px;
+		width:500px;
+}
+
+#main-container{
+	fontsize:100px;
+	color: steelblue;
+}
